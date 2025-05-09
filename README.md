@@ -18,7 +18,7 @@ Created by the students of CSE - C 1st year, this Python-based billing system us
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/Automated-Billing-Software.git
+   [git clone https://github.com/your-username/Automated-Billing-Software.git](https://github.com/mrlucifer006/Automated-billing-software-backend)
    ```
 2. Install dependencies:
    ```
